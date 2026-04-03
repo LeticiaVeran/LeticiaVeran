@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Leticia Veran! 👋
 
-<!--
-**LeticiaVeran/LeticiaVeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduanda em **Engenharia de Computação** na UFSC — Araranguá.
+Interesse em **hardware, FPGAs, microeletrônica, sistemas embarcados e desenvolvimento de software**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-darkgreen?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-red?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaveran/)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/8626659368232004)
